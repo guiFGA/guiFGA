@@ -39,7 +39,12 @@ I'm currently building my skills in Cloud Computing, DevOps and Information Secu
 
 ## Learning Journey
 
-https://img.shields.io/badge/SC--900-In%20Progress-blue
-https://img.shields.io/badge/AWS-SAA--C03-orange
-https://img.shields.io/badge/Linux-Administration-green
-![Terraform](https://img.shields.io/badge/Terraform-Learning-purpley Building
+![SC-900](https://img.shields.io/badge/Microsoft-SC--900go=microsoft&logoColor=white)
+
+![AWS SAA-C03](https://img.shields.io/badge/AWS-SAA--C03-FF990s&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-ation-FCC624?logo=linux&logoColor=black)
+
+![Terraform](https://img.shields.io/badge/Terraform-Learning-erraform&logoColor=white)
+
+![GitHub Foundations](https://img.shields.io/badge/GitHub-FoundationsgoColor=white)
