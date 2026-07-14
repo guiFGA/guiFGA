@@ -22,12 +22,12 @@ I'm currently building my skills in Cloud Computing, DevOps and Information Secu
 
 ## 💻 Technologies
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linuxsvg
-  icons/devicon/icons/git/git-original.svg" width="45" />
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/deviconscons/docker/docker-original.svg
-  cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" />
-  .simpleicons.org/amazonaws/FF9900" width="45" />
-  <img src="https://cdn.s.org/microsoftazure/0078D4
-</p>
+![AWS](https://img.shields.io/badge/Studying-AWS-orange?style=for-the-badge&logo=amazonaws)
+
+![Azure](https://img.shields.io/badge/Studying-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
+![Terraform](https://img.shields.io/badge/Learning-Terraform-7B42BC?style=for-the-badge&logo=terraform)
+
+![Docker](https://img.shields.io/badge/Learning-Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Linux](https://img.shields.io/badge/Learning-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
