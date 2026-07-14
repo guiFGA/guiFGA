@@ -19,7 +19,7 @@ I'm currently building my skills in Cloud Computing, DevOps and Information Secu
 | AWS SAA-C03 | 🟡 Studying |
 | GitHub Foundations | 🔜 Planned |
 
-## 🛠️ Leaning
+## 🛠️ Learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>&nbsp;&nbsp;&nbsp;
@@ -35,6 +35,11 @@ I'm currently building my skills in Cloud Computing, DevOps and Information Secu
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=guiFGA&show_icons=true&theme=default
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guiFGA&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiFGA&layout=compact&langs_count=8&theme=default"/>
+</p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=guiFGA&layout=compact
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=guiFGA&theme=default"/>
+</p>
