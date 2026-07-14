@@ -19,15 +19,14 @@ I'm currently building my skills in Cloud Computing, DevOps and Information Secu
 | AWS SAA-C03 | 🟡 Studying |
 | GitHub Foundations | 🔜 Planned |
 
+## 🛠️ Technologies
 
-## 💻 Technologies
-
-![AWS](https://img.shields.io/badge/Studying-AWS-orange?style=for-the-badge&logo=amazonaws)
-
-![Azure](https://img.shields.io/badge/Studying-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
-![Terraform](https://img.shields.io/badge/Learning-Terraform-7B42BC?style=for-the-badge&logo=terraform)
-
-![Docker](https://img.shields.io/badge/Learning-Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Linux](https://img.shields.io/badge/Learning-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32"/>
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32"/>
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32"/>
+  <img alt="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32" height="32"/>
+  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32"/>
+  <img alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" height="32"/>
+</p>
