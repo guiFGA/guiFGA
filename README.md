@@ -28,6 +28,17 @@ I'm currently building my skills in Cloud Computing, DevOps and Information Secu
 - Docker
 - Terraform
 
-## Projects
 
-🚀 Work in progress
+ ## Certifications
+
+| Certification | Status |
+|--------------|---------|
+| SC-900 | Studying |
+| AWS SAA-C03 | Studying |
+| GitHub Foundations | Planned |
+
+
+![AWS](https://img.shields.io/badge/Aning-orange
+![SC900](https://img.shields.io/badge/SC--900-Inss-blue
+![Linux](https://img.shbadge/Linux-Administration-green
+![Terraform](https://img.shields.io/badge/Terraform-Le
