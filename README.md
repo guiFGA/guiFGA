@@ -16,7 +16,7 @@ I'm currently building my skills in Cloud Computing, DevOps and Information Secu
 | Certification | Status |
 |--------------|---------|
 | SC-900 | 🟡 Studying |
-| AWS SAA-C03 | 🟡 Studying |
+| AZ-104 | 🟡 Studying |
 | GitHub Foundations | 🔜 Planned |
 
 ## 🛠️ Learning
